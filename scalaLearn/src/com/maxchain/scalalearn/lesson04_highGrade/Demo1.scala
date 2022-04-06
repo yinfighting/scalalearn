@@ -11,7 +11,12 @@ package com.maxchain.scalalearn.lesson04_highGrade
 object Demo1 {
 
   def main(args: Array[String]): Unit = {
-
+    // trait  可以被继承的类
+    val p = new Person("张三")
+    p.hello()
+    p.say()
+    p.ku()
+    p.haiRen()
   }
 
 }
@@ -26,13 +31,19 @@ trait Mg{
   def ku(): Unit ={
     println("mg...say")
   }
+
+  def haiRen(): Unit
 }
 
 
 
-
-class Person(name: String) {
+class Person(name: String) extends God with Mg {
    def hello(): Unit ={
      println(s"$name say hello")
    }
+
+  override def haiRen(): Unit = {
+    println("ziji shixian")
+  }
+
 }
