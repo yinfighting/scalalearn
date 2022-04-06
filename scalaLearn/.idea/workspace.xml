@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d92a28f-c66a-48ec-aa32-9061386c0d46" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Package Object" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven-3.6.2\r1" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.2\conf\settings-bj.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="273SciFK0vVd4ExrDpt70ZVEAtr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/maxchain/scalalearn" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ScalaProject\scalaLearn\src\com\maxchain\scalalearn" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Demo1 (2)">
+    <configuration name="Demo1 (1)" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.maxchain.scalalearn.lesson03_collections.Demo1" />
+      <module name="scalademo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.maxchain.scalalearn.lesson03_collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo1 (2)" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.maxchain.scalalearn.lesson04_highGrade.Demo1" />
+      <module name="scalademo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.maxchain.scalalearn.lesson04_highGrade.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.maxchain.scalalearn.lesson02_functions.Demo1" />
+      <module name="scalademo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.maxchain.scalalearn.lesson02_functions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.maxchain.scalalearn.HelloWorld" />
+      <module name="scalademo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.maxchain.scalalearn.lesson01_if_while_for.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorld01" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.maxchain.scalalearn.HelloWorld01" />
+      <module name="scalademo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.maxchain.scalalearn.lesson01_if_while_for.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="COMMON_VM_ARGUMENTS" value="-server -XX:PermSize=1024M -XX:MaxPermSize=2048m" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_Default_(Template)_Project" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="53323" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo1 (2)" />
+        <item itemvalue="Application.Demo1 (1)" />
+        <item itemvalue="Application.Demo1" />
+        <item itemvalue="Application.HelloWorld01" />
+        <item itemvalue="Application.HelloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\YHR\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d92a28f-c66a-48ec-aa32-9061386c0d46" name="Default Changelist" comment="" />
+      <created>1648547357248</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648547357248</updated>
+      <workItem from="1648547362248" duration="28803000" />
+      <workItem from="1648776897017" duration="795000" />
+      <workItem from="1649240679659" duration="842000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="402" height="466" key="DebuggerActiveHint" timestamp="1648709444718">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="402" height="466" key="DebuggerActiveHint/0.0.1536.824/-1680.26.1680.1010@0.0.1536.824" timestamp="1648709444718" />
+    <state x="466" y="153" key="FileChooserDialogImpl" timestamp="1648805549640">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="466" y="153" key="FileChooserDialogImpl/0.0.1536.824/-1680.26.1680.1010@0.0.1536.824" timestamp="1648805549640" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1649241275454">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/-1680.20.1680.1010@0.0.1536.824" timestamp="1649241275454" />
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824/-1680.26.1680.1010@0.0.1536.824" timestamp="1648711216771" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1649241275454">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/-1680.20.1680.1010@0.0.1536.824" timestamp="1649241275454" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824/-1680.26.1680.1010@0.0.1536.824" timestamp="1648711216769" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1649241275453">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/-1680.20.1680.1010@0.0.1536.824" timestamp="1649241275453" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824/-1680.26.1680.1010@0.0.1536.824" timestamp="1648711216764" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1649241275454">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/-1680.20.1680.1010@0.0.1536.824" timestamp="1649241275454" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824/-1680.26.1680.1010@0.0.1536.824" timestamp="1648711216770" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1648711221874">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824/-1680.26.1680.1010@0.0.1536.824" timestamp="1648711221874" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1648711221874">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824/-1680.26.1680.1010@0.0.1536.824" timestamp="1648711221874" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1648711221873">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824/-1680.26.1680.1010@0.0.1536.824" timestamp="1648711221873" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1648711221874">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824/-1680.26.1680.1010@0.0.1536.824" timestamp="1648711221874" />
+    <state width="1493" height="261" key="GridCell.Tab.2.bottom" timestamp="1648711217304">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.2.bottom/0.0.1536.824/-1680.26.1680.1010@0.0.1536.824" timestamp="1648711217304" />
+    <state width="1493" height="261" key="GridCell.Tab.2.center" timestamp="1648711217302">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.2.center/0.0.1536.824/-1680.26.1680.1010@0.0.1536.824" timestamp="1648711217302" />
+    <state width="1493" height="261" key="GridCell.Tab.2.left" timestamp="1648711217300">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.2.left/0.0.1536.824/-1680.26.1680.1010@0.0.1536.824" timestamp="1648711217300" />
+    <state width="1493" height="261" key="GridCell.Tab.2.right" timestamp="1648711217304">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.2.right/0.0.1536.824/-1680.26.1680.1010@0.0.1536.824" timestamp="1648711217304" />
+    <state x="270" y="0" key="SettingsEditor" timestamp="1648632368159">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824/-1680.26.1680.1010@0.0.1536.824" timestamp="1648632368159" />
+    <state x="506" y="306" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1648632268454">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="506" y="306" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824/-1680.26.1680.1010@0.0.1536.824" timestamp="1648632268454" />
+  </component>
+</project>
