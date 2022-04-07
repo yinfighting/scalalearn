@@ -2,59 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d92a28f-c66a-48ec-aa32-9061386c0d46" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/maxchain/scalalearn/lesson04_highGrade/Demo2.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/maxchain/scalalearn/lesson04_highGrade/Demo3.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/maxchain/scalalearn/lesson04_highGrade/Demo4.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/maxchain/scalalearn/lesson04_highGrade/Demo5.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/scala_sdk_2_11_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/scala_sdk_2_11_5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/scalademo1/META-INF/scalademo1.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson01_if_while_for/HelloWorld01$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson01_if_while_for/HelloWorld01$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson01_if_while_for/HelloWorld01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson01_if_while_for/HelloWorld01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson02_functions/Demo1$$anonfun$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson02_functions/Demo1$$anonfun$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson02_functions/Demo1$$anonfun$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson02_functions/Demo1$$anonfun$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson02_functions/Demo1$$anonfun$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson02_functions/Demo1$$anonfun$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson02_functions/Demo1$$anonfun$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson02_functions/Demo1$$anonfun$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson02_functions/Demo1$$anonfun$facroty$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson02_functions/Demo1$$anonfun$facroty$1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson02_functions/Demo1$$anonfun$facroty$1$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson02_functions/Demo1$$anonfun$facroty$1$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson02_functions/Demo1$$anonfun$facroty$1$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson02_functions/Demo1$$anonfun$facroty$1$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson02_functions/Demo1$$anonfun$facroty$1$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson02_functions/Demo1$$anonfun$facroty$1$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson02_functions/Demo1$$anonfun$fun09$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson02_functions/Demo1$$anonfun$fun09$1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson02_functions/Demo1$$anonfun$fun09$1$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson02_functions/Demo1$$anonfun$fun09$1$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson02_functions/Demo1$$anonfun$fun09$1$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson02_functions/Demo1$$anonfun$fun09$1$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson02_functions/Demo1$$anonfun$fun09$1$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson02_functions/Demo1$$anonfun$fun09$1$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson02_functions/Demo1$$anonfun$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson02_functions/Demo1$$anonfun$main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson02_functions/Demo1$$anonfun$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson02_functions/Demo1$$anonfun$main$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson02_functions/Demo1$$anonfun$main$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson02_functions/Demo1$$anonfun$main$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson02_functions/Demo1$$anonfun$main$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson02_functions/Demo1$$anonfun$main$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson02_functions/Demo1$$anonfun$main$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson02_functions/Demo1$$anonfun$main$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson02_functions/Demo1$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson02_functions/Demo1$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson02_functions/Demo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson02_functions/Demo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson03_collections/Demo1$$anonfun$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson03_collections/Demo1$$anonfun$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson03_collections/Demo1$$anonfun$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson03_collections/Demo1$$anonfun$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson03_collections/Demo1$$anonfun$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson03_collections/Demo1$$anonfun$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson03_collections/Demo1$$anonfun$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson03_collections/Demo1$$anonfun$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson03_collections/Demo1$$anonfun$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson03_collections/Demo1$$anonfun$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson03_collections/Demo1$$anonfun$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson03_collections/Demo1$$anonfun$6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson03_collections/Demo1$$anonfun$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson03_collections/Demo1$$anonfun$7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson03_collections/Demo1$$anonfun$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson03_collections/Demo1$$anonfun$8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson03_collections/Demo1$$anonfun$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson03_collections/Demo1$$anonfun$main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson03_collections/Demo1$$anonfun$main$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson03_collections/Demo1$$anonfun$main$10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson03_collections/Demo1$$anonfun$main$11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson03_collections/Demo1$$anonfun$main$11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson03_collections/Demo1$$anonfun$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson03_collections/Demo1$$anonfun$main$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson03_collections/Demo1$$anonfun$main$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson03_collections/Demo1$$anonfun$main$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson03_collections/Demo1$$anonfun$main$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson03_collections/Demo1$$anonfun$main$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson03_collections/Demo1$$anonfun$main$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson03_collections/Demo1$$anonfun$main$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson03_collections/Demo1$$anonfun$main$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson03_collections/Demo1$$anonfun$main$6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson03_collections/Demo1$$anonfun$main$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson03_collections/Demo1$$anonfun$main$7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson03_collections/Demo1$$anonfun$main$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson03_collections/Demo1$$anonfun$main$8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson03_collections/Demo1$$anonfun$main$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson03_collections/Demo1$$anonfun$main$9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson03_collections/Demo1$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson03_collections/Demo1$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson03_collections/Demo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson03_collections/Demo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson04_highGrade/Demo1$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalademo1/com/maxchain/scalalearn/lesson04_highGrade/Demo1$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scalademo1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/scalademo1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/maxchain/scalalearn/lesson04_highGrade/Demo1.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/maxchain/scalalearn/lesson04_highGrade/Demo1.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScalaToSpark.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/testdata.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/maxchain/javaspark/WordCountJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/maxchain/scalaspark/WordCountScala.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/maxchain/scalalearn/lesson01_if_while_for/HelloWorld.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/maxchain/scalalearn/lesson01_if_while_for/HelloWorld.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/maxchain/scalalearn/lesson02_functions/Demo1.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/maxchain/scalalearn/lesson02_functions/Demo1.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/maxchain/scalalearn/lesson03_collections/Demo1.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/maxchain/scalalearn/lesson03_collections/Demo1.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/maxchain/scalalearn/lesson04_highGrade/Demo1.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/maxchain/scalalearn/lesson04_highGrade/Demo1.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/maxchain/scalalearn/lesson04_highGrade/Demo2.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/maxchain/scalalearn/lesson04_highGrade/Demo2.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/maxchain/scalalearn/lesson04_highGrade/Demo3.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/maxchain/scalalearn/lesson04_highGrade/Demo3.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/maxchain/scalalearn/lesson04_highGrade/Demo4.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/maxchain/scalalearn/lesson04_highGrade/Demo4.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/maxchain/scalalearn/lesson04_highGrade/Demo5.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/maxchain/scalalearn/lesson04_highGrade/Demo5.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +28,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Package Object" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -79,7 +40,7 @@
       <MavenGeneralSettings>
         <option name="localRepository" value="D:\apache-maven-3.6.2\r1" />
         <option name="mavenHome" value="D:/apache-maven-3.6.2" />
-        <option name="userSettingsFile" value="D:\apache-maven-3.6.2\conf\settings-bj.xml" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.2\conf\settings-si.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -103,7 +64,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/maxchain/scalalearn/lesson04_highGrade" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -113,7 +74,7 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -124,33 +85,7 @@
       <recent name="D:\ScalaProject\scalaLearn\src\com\maxchain\scalalearn" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo5">
-    <configuration name="Demo1 (2)" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.maxchain.scalalearn.lesson04_highGrade.Demo1" />
-      <module name="scalademo1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.maxchain.scalalearn.lesson04_highGrade.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.maxchain.scalalearn.lesson04_highGrade.Demo2" />
-      <module name="scalademo1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.maxchain.scalalearn.lesson04_highGrade.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.WordCountScala">
     <configuration name="Demo3" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.maxchain.scalalearn.lesson04_highGrade.Demo3" />
       <module name="scalademo1" />
@@ -183,6 +118,32 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.maxchain.scalalearn.lesson04_highGrade.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordCountJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.maxchain.javaspark.WordCountJava" />
+      <module name="scalademo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.maxchain.javaspark.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordCountScala" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.maxchain.scalaspark.WordCountScala" />
+      <module name="scalademo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.maxchain.scalaspark.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -256,11 +217,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WordCountScala" />
+        <item itemvalue="Application.WordCountJava" />
         <item itemvalue="Application.Demo5" />
         <item itemvalue="Application.Demo4" />
         <item itemvalue="Application.Demo3" />
-        <item itemvalue="Application.Demo2" />
-        <item itemvalue="Application.Demo1 (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -290,6 +251,7 @@
       <workItem from="1648776897017" duration="795000" />
       <workItem from="1649240679659" duration="842000" />
       <workItem from="1649254429300" duration="5253000" />
+      <workItem from="1649295874614" duration="7799000" />
     </task>
     <servers />
   </component>
@@ -297,41 +259,51 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="765" y="216" key="#com.intellij.ide.util.MemberChooser" timestamp="1649254719141">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="495" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1649301174333">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="495" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/-1680.20.1680.1010@0.0.1536.824" timestamp="1649301174333" />
+    <state x="612" y="171" key="#com.intellij.ide.util.MemberChooser" timestamp="1649310613746">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="765" y="216" key="#com.intellij.ide.util.MemberChooser/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1649254719141" />
+    <state x="612" y="171" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/-1680.20.1680.1010@0.0.1536.824" timestamp="1649310613746" />
+    <state x="389" y="90" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1649300848909">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="389" y="90" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824/-1680.20.1680.1010@0.0.1536.824" timestamp="1649300848909" />
     <state width="402" height="466" key="DebuggerActiveHint" timestamp="1648709444718">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="402" height="466" key="DebuggerActiveHint/0.0.1536.824/-1680.26.1680.1010@0.0.1536.824" timestamp="1648709444718" />
-    <state x="466" y="153" key="FileChooserDialogImpl" timestamp="1648805549640">
+    <state x="466" y="153" key="FileChooserDialogImpl" timestamp="1649301930865">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="466" y="153" key="FileChooserDialogImpl/0.0.1536.824/-1680.20.1680.1010@0.0.1536.824" timestamp="1649301930865" />
     <state x="466" y="153" key="FileChooserDialogImpl/0.0.1536.824/-1680.26.1680.1010@0.0.1536.824" timestamp="1648805549640" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1649259733644">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1649311129021">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.bottom/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1649259733644" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/-1680.20.1680.1010@0.0.1536.824" timestamp="1649241275454" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/-1680.20.1680.1010@0.0.1536.824" timestamp="1649311129021" />
     <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824/-1680.26.1680.1010@0.0.1536.824" timestamp="1648711216771" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1649259733644">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1649311129020">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.center/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1649259733644" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/-1680.20.1680.1010@0.0.1536.824" timestamp="1649241275454" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/-1680.20.1680.1010@0.0.1536.824" timestamp="1649311129020" />
     <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824/-1680.26.1680.1010@0.0.1536.824" timestamp="1648711216769" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1649259733644">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1649311129019">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.left/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1649259733644" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/-1680.20.1680.1010@0.0.1536.824" timestamp="1649241275453" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/-1680.20.1680.1010@0.0.1536.824" timestamp="1649311129019" />
     <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824/-1680.26.1680.1010@0.0.1536.824" timestamp="1648711216764" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1649259733644">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1649311129021">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.right/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1649259733644" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/-1680.20.1680.1010@0.0.1536.824" timestamp="1649241275454" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/-1680.20.1680.1010@0.0.1536.824" timestamp="1649311129021" />
     <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824/-1680.26.1680.1010@0.0.1536.824" timestamp="1648711216770" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1648711221874">
       <screen x="0" y="0" width="1536" height="824" />
@@ -365,10 +337,11 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.2.right/0.0.1536.824/-1680.26.1680.1010@0.0.1536.824" timestamp="1648711217304" />
-    <state x="338" y="0" key="SettingsEditor" timestamp="1649254495982">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="270" y="0" key="SettingsEditor" timestamp="1649302450857">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="338" y="0" key="SettingsEditor/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1649254495982" />
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824/-1680.20.1680.1010@0.0.1536.824" timestamp="1649302450857" />
     <state x="270" y="0" key="SettingsEditor/0.0.1536.824/-1680.26.1680.1010@0.0.1536.824" timestamp="1648632368159" />
     <state x="506" y="306" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1648632268454">
       <screen x="0" y="0" width="1536" height="824" />
